@@ -3,7 +3,7 @@
   "displayName": "Naive UI Theme",
   "description": "Naive UI inspired color palette for VSCode",
   "repository": "https://github.com/brys0/vscode-naive-ui-theme",
-  "version": "0.0.21",
+  "version": "0.0.22-MARC",
   "engines": {
     "vscode": "^1.70.0"
   },
