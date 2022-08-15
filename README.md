@@ -1,16 +1,10 @@
-# vscode-navive-ui-theme README
+# Naive-UI VSCode Theme
 
-## Working with Markdown
+[Repo](https://github.com/brys0/vscode-naive-ui-theme)
+[VSIX Download](https://github.com/brys0/vscode-naive-ui-theme/releases/download/v0.0.1/vscode-navive-ui-theme-0.0.1.vsix)
+![dev preview](https://user-images.githubusercontent.com/35676267/184657712-10a2b385-fbe7-4ea9-a2ea-5bf11048fdbd.png)
+![real preview](https://user-images.githubusercontent.com/35676267/184657843-b583a76f-5683-49b0-bc53-3ce11c0b52a2.png)
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+In the future I will probably add Naive-UI's light theme as well. But, for now you have just the dark mode. 
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
