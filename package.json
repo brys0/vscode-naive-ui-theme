@@ -1,9 +1,9 @@
 {
-  "name": "vscode-navive-ui-theme",
-  "displayName": "vscode-navive-ui-theme",
+  "name": "naive-ui-theme",
+  "displayName": "Naive-UI Theme",
   "description": "Naive-UI inspired color palette for VSCode",
   "repository": "https://github.com/brys0/vscode-naive-ui-theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.70.0"
   },
